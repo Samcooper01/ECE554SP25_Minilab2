@@ -2,6 +2,3 @@
 
 ## Overview
 Please refer to the [Lab2-MainDocument.pdf](Lab2-MainDocument.pdf) for the complete project overview and details.
-
-## Getting Started
-Follow the instructions in the PDF for setting up and running the project.

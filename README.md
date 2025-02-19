@@ -1,5 +1,6 @@
 # 2D Image Processing Module
-
+For more details, see: [Lab2-MainDocument.pdf](Lab2-MainDocument.pdf).  
+Lab Report: [Minilab_2_Report.pdf](Minilab_2_Report.pdf)
 ## Overview  
 This project implements a Verilog module to interface with the **D5M camera, SDRAM, and VGA** on the **DE1-SoC**. The system captures, processes, and displays images in real time. Image processing includes **greyscale conversion** and **2D convolution with a 3x3 filter** for edge detection using Sobel operators.  
 
@@ -22,8 +23,6 @@ This project implements a Verilog module to interface with the **D5M camera, SDR
 - `KEY[2]` – Stop image capture  
 - `KEY[3]` – Resume image capture  
 - `SW[9]` – Zoom toggle  
-
-For more details, see: [Lab2-MainDocument.pdf](Lab2-MainDocument.pdf).  
 
 ### Main Block Diagram
 ![Main block diagram](main_block_diagram.png)
